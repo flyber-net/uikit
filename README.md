@@ -10,7 +10,7 @@ Multipurpose means you can use it for any type of mobile / desktop application (
 Why Flyber?
 
 * It doesn't use bootstrap or other frameworks (but easy to combine with frameworks)
-* It uses plain CC3 without javascript (Use with React, AngularJS or JQuery) 
+* It uses plain CSS3 without javascript (Use with React, AngularJS or JQuery) 
 * Each component is independent. (No need engineers to understand it)
 * Each component is minimalistic but self-sufficient. 
 * New reusable UX for demo website.
