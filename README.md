@@ -4,11 +4,18 @@
 
 Multipurpose means you can use it for any type of mobile / desktop application (more options to come with new updates).
 
-It doesn't use bootstrap or other frameworks. It uses plain CC3 without javascript. Each component is independent.
+### Demo: http://s.codepen.io/askucher/debug/WRxYPG/RBAOJyYwbber
+### Edit: http://codepen.io/askucher/pen/WRxYPG
 
+Why Flyber?
 
-Demo: http://s.codepen.io/askucher/debug/WRxYPG/RBAOJyYwbber
-Edit: http://codepen.io/askucher/pen/WRxYPG
+* It doesn't use bootstrap or other frameworks (but easy to combine with frameworks)
+* It uses plain CC3 without javascript (Use with React, AngularJS or JQuery) 
+* Each component is independent. (No need engineers to understand it)
+* Each component is minimalistic but self-sufficient. 
+* New reusable UX for demo website.
+* Anyone can collaborate and extend the UIKit. 
+
 
 Components:
 
